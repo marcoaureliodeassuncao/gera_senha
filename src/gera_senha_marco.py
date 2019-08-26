@@ -4,7 +4,7 @@ import random
 alpha_numeric = 'AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz0123456789'
 
 def gera_senha():
-	x = random.randint(20, 40)
+	x = random.randint(8, 15)
 	i = 0
 	pswd = ''
 
